@@ -163,7 +163,7 @@ cython_debug/
 # Distribution / packaging
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
+#  Usually these hiles are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 
 # Installer logs
