@@ -156,4 +156,6 @@ DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 LOGIN_REDIRECT_URL = 'mainpage'
 LOGOUT_REDIRECT_URL = 'mainpage'
+
 django_heroku.settings(locals())
+
